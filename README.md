@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I'm a high school student from India preparing for **JEE 2026**, while building a strong global undergraduate application for **Computer Science (NUS, NTU, US universities)**.
+I'm a high school student from India preparing for **JEE 2026**, while building a strong global undergraduate application for **Computer Science**.
 
 I love solving problems that combine **physics, math, and programming**.  
 Right now, I’m working on beginner–friendly but smart projects that show real initiative and technical curiosity.
