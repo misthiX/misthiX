@@ -1,27 +1,29 @@
-<h1 align="center">Hi, I'm Misthi 👋</h1>
-<h3 align="center">Aspiring Computer Science Student | Physics + CS Projects | CS50 Learner</h3>
+# Hi, I'm Misthi 👋
+
+**Aspiring Computer Science Student • CS50 Learner • Physics & Simulation Enthusiast**
+
+Email: **misthisingal2@gmail.com**
 
 ---
 
 ## 🚀 About Me
-I'm a high school student from India preparing for **JEE 2026**, while building a strong global undergraduate application for **Computer Science**.
+I'm a Class 12 student preparing for **JEE 2026** while building a strong foundation in **computer science, mathematics, and physics**.
 
-I love solving problems that combine **physics, math, and programming**.  
-Right now, I’m working on beginner–friendly but smart projects that show real initiative and technical curiosity.
-
----
-
-## 💻 Skills & Tools (Growing)
-- **Languages:** C, Python, HTML/CSS/JS (learning)
-- **Currently learning:** Data structures, algorithms, web dev basics
-- **Tools:** Git, GitHub, VS Code, CS50 Codespace, Scratch
-- **Interests:** Physics simulations, educational apps, AI tools, problem solvers
+I love creating things that blend **logic, motion, and imagination** — from algorithms to physics simulations.
 
 ---
 
-## 📘 CS50x Progress (2025-26)
+## 💻 Technical Skills
+- **Languages:** Python, C, HTML/CSS/JS (learning)
+- **Tools:** Git, GitHub, VS Code, Linux/CLI
+- **Interests:** Simulations, algorithms, animations, physics engines, educational tools
+
+---
+
+## 📘 CS Coursework
+### **CS50x: Introduction to Computer Science** (In Progress)
 - [x] **Week 0 — Scratch**
-- [ ] Week 1 — C
+- [x] Week 1 — C
 - [ ] Week 2 — Arrays
 - [ ] Week 3 — Algorithms
 - [ ] Week 4 — Memory
@@ -32,45 +34,91 @@ Right now, I’m working on beginner–friendly but smart projects that show rea
 - [ ] Week 9 — Flask
 - [ ] Week 10 — Final Project
 
-> Tracking progress publicly to stay accountable and show consistency.
+> Coursework stored in the `cs50/` folder.
 
 ---
 
-## 🔭 Current Major Project: Physics Problem Solver
-A toolkit that helps students visualize physics numericals through:
-- ⚡ Projectile motion animation  
-- ⚡ LCR circuit simulation  
-- ⚡ Electric fields / vectors  
-- ⚡ Graphs and step-by-step solutions  
-- ⚡ Interactive inputs for any physics question  
+## 🔬 Featured Project: Physics Problem Solver
+A custom project where I combine **coding + physics** to build a tool that:
+- Solves physics problems (projectile motion, circuits, etc.)
+- Visualizes concepts using **animations and simulations**
+- Helps learners understand motion, forces, and equations intuitively
 
-**Technologies:** Python, JavaScript, CS50 libraries (later Flask)
+📁 Folder: `physics-solver/`
 
-This is the main project I’ll highlight on my university applications.
+Upcoming features:
+- Projectile motion visualizer
+- LCR circuit animation
+- Electric field line mapper
+- Numerical solvers
 
 ---
 
-## 🌱 Currently Working On
-- Completing **CS50x**
-- Building my **Physics Solver**
-- Participating in **coding contests** (CodeChef, LeetCode, AtCoder)
+## 🏆 Competitive Programming
+Actively practicing algorithmic thinking and participating in contests.
+
+Platforms:
+- CodeChef
+- LeetCode
+- AtCoder
+
+📁 Solutions stored under `coding-contests/`.
+
+---
+
+## 📂 Repository Structure
+```bash
+misthiX/
+├── cs50/
+│   ├── pset0/
+│   ├── pset1/
+│   ├── pset2/
+│   └── ...
+├── physics-solver/
+│   ├── src/
+│   └── assets/
+└── coding-contests/
+    ├── codechef/
+    ├── leetcode/
+    └── atcoder/
+```
+
+---
+
+## 🎯 Roadmap
+- Complete CS50x
+- Build full Physics Solver with UI + animations
+- Participate in more coding contests
+- Create personal portfolio website
+- Expand this repository with more CS + physics projects
 - Leading a school initiative: **Code For School (CFS)** — teaching coding to juniors
 
 ---
 
-## 🏆 Achievements (Early Stage)
-- Foundation in C and Python through CS50  
-- Created first Scratch project (Week 0)  
-- Solved beginner programming problems  
-- Started GitHub + version control  
-(*More to be added as I progress*)
+## 🌱 Currently Learning
+- Python (advanced)
+- Data structures & algorithms
+- Basic web development
 
 ---
 
 ## 📫 Contact
-- Email: misthisingal2@gmail.com
-- GitHub: **@misthiX**
+- **Email:** misthisingal2@gmail.com
 
 ---
 
-⭐ *This profile will evolve as I learn, build, and prepare for global CS admissions.*
+⭐ *Thanks for visiting my profile!* 
+
+## 📊 GitHub Profile Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misthiX" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=misthiX&show_icons=true&count_private=true" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misthiX&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">✨ *More updates coming as I build new projects!* ✨</p>
+
